@@ -4,9 +4,12 @@
     <head>
         <meta charset="UTF-8" />
         <title>Home</title>
+        <link href="/css/bootstrap.min.css" />
     </head>
     <body>
         <h1>Olá Spring!!!</h1>
+
+        <a href="/genero/list">Ver lista de gêneros</a>
     </body>
 </html>
 
